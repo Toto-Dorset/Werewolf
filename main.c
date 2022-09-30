@@ -3,6 +3,7 @@
 #include <time.h>
 #include "fonction.h"
 #include "windows.h"
+//test
 
  //nous permettra de mettre en place une interface graphique si on a le temps
 
